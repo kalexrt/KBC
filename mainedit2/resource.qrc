@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>background.png</file>
+        <file>fixedbutton.png</file>
+        <file>50.png</file>
+        <file>audience.png</file>
+        <file>orange.png</file>
+        <file>expert.png</file>
+        <file>Game-over.png</file>
+        <file>black.png</file>
+        <file>back.png</file>
+        <file>yellow.png</file>
+    </qresource>
+</RCC>
